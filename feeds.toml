@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[ruanyifeng]
+title = "阮一峰的网络日志"
+url = "http://www.ruanyifeng.com/blog/"
+entrySelector = ".jcarousel-wrapper .jcarousel-item"
+titleSelector = "#entry-2265 > div.asset-header > h2"
+linkSelector = "#entry-2265 > div.asset-header > h2 > a"
