@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.ruanyifeng.com/blog/</id>
+    <title>阮一峰的网络日志</title>
+    <updated>2021-08-02T09:00:04.677Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://www.ruanyifeng.com/favicon.ico</icon>
+</feed>
